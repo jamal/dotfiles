@@ -1,0 +1,5 @@
+shell = "/usr/local/microsoft/powershell/7/pwsh"
+
+[font]
+normal = { family = "SeriousShanns Nerd Font", style = "Light" }
+size = 14.25
